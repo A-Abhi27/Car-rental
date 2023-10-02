@@ -1,0 +1,29 @@
+.header,.pagination{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1vh auto 1vh auto;
+    width: 95%;
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px 3px rgba(137, 138, 138, 0.2);
+    background-color: rgb(223, 227, 237);
+}
+
+.header-items{
+    display: flex;
+    align-items: center;
+    padding: 1vw 1vw 1vw;
+}
+
+.cars{
+    margin: 1.5vh 1vw 0 1.5vw;
+}
+
+.MuiInputBase-root  {
+    background: whitesmoke;
+  }
+
+.pagination{
+    margin-left: 1vw;
+    padding: 3vh 2.6vh;
+}
